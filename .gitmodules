@@ -1,0 +1,3 @@
+[submodule "osg"]
+	path = osg
+	url = https://github.com/openscenegraph/osg.git
