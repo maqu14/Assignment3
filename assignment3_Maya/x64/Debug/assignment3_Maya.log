@@ -1,0 +1,14 @@
+﻿Build started 2015-10-02 12:55:22.
+     1>Project "C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\assignment3_Maya.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Autodesk\Maya2016\include" /Zi /nologo /W1 /WX- /O2 /D _WINDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\x64\Debug\assignment3_Maya.mll" /NOLOGO /LIBPATH:"C:\Program Files\Autodesk\Maya2016\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\x64\Debug\assignment3_Maya.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\x64\Debug\assignment3_Maya.lib" /MACHINE:X64 /DLL x64\Debug\Source.obj
+            Creating library C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\x64\Debug\assignment3_Maya.lib and object C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\x64\Debug\assignment3_Maya.exp
+         assignment3_Maya.vcxproj -> C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\x64\Debug\assignment3_Maya.mll
+     1>Done Building Project "C:\Users\BTH\Desktop\Assignment3\assignment3_Maya\assignment3_Maya.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87
